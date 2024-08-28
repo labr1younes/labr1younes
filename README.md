@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since High school .<br>📚 I'm currently : learning Django framework .<br>🎯 Goals : Improve myself to be Software Engineer .</p>
+<p align="left">✨ Creating bugs since High school .<br>📚 I'm currently : learning C# and .NET framework .<br>🎯 Goals : Improve myself to be Software Engineer .</p>
 
 ###
 
